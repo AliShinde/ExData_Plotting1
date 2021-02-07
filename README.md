@@ -1,4 +1,6 @@
 ## Introduction
+#Kindly check the 1st folder for the plots and scripts.
+
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
